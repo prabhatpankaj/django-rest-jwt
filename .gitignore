@@ -5,3 +5,8 @@
 **.pyc
 **.idea/
 **.DS_*
+
+
+
+venv3
+venv3/*
